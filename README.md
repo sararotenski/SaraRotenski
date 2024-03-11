@@ -7,7 +7,7 @@
 </div>
 
 ### Estou aprendendo:
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block" ><br>
   <img alt="Sara-HTML" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt=Saraa-CSS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Sara-Js" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
