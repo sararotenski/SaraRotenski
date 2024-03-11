@@ -6,7 +6,7 @@
 <img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sararotenski&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div style="display: inline_block" ><br>
+<div align=center style="display: inline_block" ><br>
   <img align=center alt="Sara-HTML" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align=center alt=Saraa-CSS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align=center alt="Sara-Js" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
