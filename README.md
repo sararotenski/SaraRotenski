@@ -15,7 +15,7 @@
 </div>
 <h3>Contatos:</h3>
 <div align=center>
-  <a href = "mailto:contato@sararotenski"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "mailto:srarotenskipereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 <!--
