@@ -14,7 +14,9 @@
   <img alt=Sara-BootStrap" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   
 </div>
-<div>< align=center a href = "mailto:contato@sararotenski"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></div>
+<div align=center>
+  <a href = "mailto:contato@sararotenski"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 <!--
 **sararotenski/SaraRotenski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
