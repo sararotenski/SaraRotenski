@@ -13,8 +13,9 @@
   <img alt="Sara-Js" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt=Sara-BootStrap" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
 </div>
-<h3>Contatos:</h3>
 <div align=center>
+  <br>
+  <br>
  <a href = "mailto:srarotenskipereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
