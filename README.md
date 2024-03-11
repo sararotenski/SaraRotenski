@@ -1,7 +1,7 @@
 ### Olá! Seja bem-vindo(a) ao meu GitHub!💡
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/sararotenski">
 <img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api?username=sararotenski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sararotenski&layout=compact&langs_count=7&theme=dracula"/>
 </div>
