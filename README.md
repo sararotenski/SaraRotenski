@@ -1,10 +1,10 @@
 <h1 align=center> Olá! Seja bem-vindo(a) ao meu GitHub!💡 </h1>
 
-<div align=center>
-<a href="https://github.com/sararotenski/"> 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=sararotenski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/
- <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sararotenski&layout=compact&langs_count=7&theme=tokyonight"/>
-</div> 
+<div align="center">
+    <a href="https://github.com/sararotenski">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=sararotenski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sararotenski&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 <div align=center style="display: inline_block" ><br>
   <img alt="Sara-HTML" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
